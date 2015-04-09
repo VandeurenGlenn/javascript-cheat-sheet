@@ -2,4 +2,4 @@
 
 ### JavaScript Loops
 
-[for...in Statement](for-in-loop.md)
+[for...in Statement](loops/for-in-loop.md)
