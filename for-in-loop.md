@@ -4,7 +4,7 @@
         var userData = "";
         
         for (data in user) {
-            userData += user[data] + "<br>";
+            userData += user[data];
         }
         console.log("currentUser: name=" + user.name + ", function=" + user.function + ", date=" + user.date);
     </script>
